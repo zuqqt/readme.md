@@ -33,7 +33,9 @@ Em resumo, a segurança da informação é um tema essencial para todos que util
 
 Olá, meu nome é César Rodrigues e estou muito interessado em ingressar na área de programação. Sou um entusiasta de tecnologia e estou sempre procurando aprender coisas novas. Embora eu ainda seja um iniciante em programação, estou animado para começar a explorar todas as possibilidades que essa área tem a oferecer.
 
-![enter image description here](https://pbs.twimg.com/media/Fza7TIeXgAYeLWS?format=jpg&name=small)
+<div align="center">
+  <img src="https://pbs.twimg.com/media/Fza7TIeXgAYeLWS?format=jpg&name=small" alt="Descrição da imagem">
+</div>
 
 Estou aberto a novas experiências e disposto a aprender o que for necessário para progredir na carreira de programação. Acredito que a tecnologia pode ser uma ferramenta poderosa para melhorar a vida das pessoas e quero fazer parte desse movimento.
 
